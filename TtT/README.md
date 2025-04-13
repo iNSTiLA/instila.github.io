@@ -1,2 +1,1 @@
-# Train the Trainer (TtT)
-
+# Train the Trainer (TtT) Workshop
