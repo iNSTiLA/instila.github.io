@@ -1,21 +1,21 @@
 # Train the Trainer (TtT) Workshop
 
 + **Course Outline**
-	+ Domain 1: ***PreTraining Planing***
+	+ Domain 1 : ***PreTraining Planing***
 		+ Review of Organizational Needs and Learners' Backgrounds in Relationship to Course Objectives
 		+ Instructional Environment in Relationship to Learning Objective
-	+ Domain 2: ***Methods and Media for Instructional Delivery***
+	+ Domain 2 : ***Methods and Media for Instructional Delivery***
 		+ Selection and Implementation of Instructional Methods
 		+ Use of Presentation and Instructional Media
-	+ Domain 3: ***Instructor Integrity and Communications***
+	+ Domain 3 : ***Instructor Integrity and Communications***
 		+ Instructor Delivery Competence and Content Expertise
 		+ Instructor Communication and Presentation Skills
-	+ Domain 4: ***Group Facilitation***
+	+ Domain 4 : ***Group Facilitation***
 		+ Establishment and Management of a Learner-Centered Environment
 		+ Promotion of Learner Engagement and Participation
 		+ Assessment of Learners' Needs for Additional Explanation and Encouragement
 		+ Motivation and Positive Reinforcement of Learners
-	+ Domain 5: ***Motivation and Positive Reinforcement of Learners***
+	+ Domain 5 : ***Motivation and Positive Reinforcement of Learners***
 		+ Evaluation of Learner Performance during and at Close of Instruction
 		+ Evaluation of Instructor and Course
 
