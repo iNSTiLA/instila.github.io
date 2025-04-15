@@ -17,5 +17,9 @@
 	+ CAI – CertNexus Authorized Instructor
 	+ ETDA Digital Citizen (EDC) Trainer
 	+ Media Literacy Expert – Thai Media Fund
+
+	+ TA
+
+		![Call for Speakers](img/CFP.png "Call for Speakers") ![Call for Speakers](img/CFP.png "Call for Speakers") ![Call for Speakers](img/CFP.png "Call for Speakers") ![Call for Speakers](img/CFP.png "Call for Speakers")
 	
 ### "There's no one right way to teach — everyone has their own style!"
