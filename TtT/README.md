@@ -70,8 +70,8 @@
 
 
 
-|:-----:|:------------------------------------------------------------------------------------------:|
-| Boy - Bounkong CHANTHAVI    |  ![Boy](TAs/Boy.png "SysAdmin Day 2023 - Live in Vientiane")         |
-| Ham - Sengphachanh SIPHAXAI |  ![Ham](TAs/Ham.png "SysAdmin Day 2023 - Live in Vientiane")         |
-| Phet - Sayphet KEOVANXAY    |  ![Sayphet](TAs/Sayphet.png "SysAdmin Day 2024 - Live in4Vientiane") |
-| Pele - Anousith VAYAKONE    |  ![Pele](TAs/Pele.jpg "LANOG 2.0")                                   |
+|:-----:|:----------------------------------------------------------------------------------------------------:|
+| ***Boy*** - **Bounkong CHANTHAVI**    |  ![Boy](TAs/Boy.png "SysAdmin Day 2023 - Live in Vientiane")         |
+| ***Ham*** - **Sengphachanh SIPHAXAI** |  ![Ham](TAs/Ham.png "SysAdmin Day 2023 - Live in Vientiane")         |
+| ***Phet*** - **Sayphet KEOVANXAY**    |  ![Sayphet](TAs/Sayphet.png "SysAdmin Day 2024 - Live in4Vientiane") |
+| ***Pele*** - **Anousith VAYAKONE**    |  ![Pele](TAs/Pele.jpg "LANOG 2.0")                                   |
