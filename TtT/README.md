@@ -27,7 +27,7 @@
 	+ Time : **8:45 AM - 4:15 PM**
 	+ Venue : **[Lao Airlines bldg.](https://maps.google.com/maps/dir//Lao+airlines+XJ74%2BG92+Vientiane/@17.9638166,102.605918,21z/data=!4m5!4m4!1m0!1m2!1m1!1s0x312469bdbab2b48f:0x92c0b3ecebaacf1d)**
 	+ Course Fee : **4,999,000** LAK
-	+ More Detail : [+856 **2059 720 444**](https://api.whatsapp.com/send?phone=8562059720444)
+	+ More Detail : [+856 **20 59 720 444**](https://api.whatsapp.com/send?phone=8562059720444)
 
 + **Instructor**
 	+ ***Maykin Warasart***
