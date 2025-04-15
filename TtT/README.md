@@ -20,7 +20,9 @@
 		+ Evaluation of Instructor and Course
 
 + **Course Details**
-	+ Date : **June 23-24, 2025**
+	+ Date : 
+		+ Batch 1: **June 7-8, 2025**
+		+ Batch 2: **June 23-24, 2025**
 	+ Time : **8:45 AM - 4:15 PM**
 	+ Venue : **TBD**
 
