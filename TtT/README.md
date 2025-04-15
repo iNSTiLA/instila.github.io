@@ -36,7 +36,7 @@
 	+ CAI – CertNexus Authorized Instructor
 	+ ETDA Digital Citizen (EDC) Trainer
 	+ Media Literacy Expert – Thai Media Fund
-+ **Instructor Assistants**
++ **Guest Instructor(s)**
 	+ Boy ![Boy](TAs/Boy.png "Boy")
 	+ Ham ![Ham](TAs/Ham.png "Ham")
 	+ Phet ![Sayphet](TAs/Sayphet.png "Sayphet")
