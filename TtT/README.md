@@ -25,7 +25,7 @@
 	+ Venue : **TBD**
 
 + **Instructor**
-	+ Maykin Warasart
+	+ ***Maykin Warasart***
 		+ Microsoft MVP (Most Valuable Professional) – Security
 		+ Approved Volunteer – Center for Cyber Safe and Education
 		+ CompTIA Certified Technical Trainer (CTT+) – Classroom Trainer
