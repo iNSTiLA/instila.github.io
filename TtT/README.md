@@ -37,6 +37,7 @@
 	+ ETDA Digital Citizen (EDC) Trainer
 	+ Media Literacy Expert – Thai Media Fund
 + **Guest Instructor(s)**
+
 	|:-----:|:--------------------------------------------------------------------:|
 	| Boy   |  ![Boy](TAs/Boy.png "SysAdmin Day 2023 - Live in Vientiane")         |
 	| Ham   |  ![Ham](TAs/Ham.png "SysAdmin Day 2023 - Live in Vientiane")         |
