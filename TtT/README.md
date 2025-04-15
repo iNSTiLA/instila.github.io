@@ -22,4 +22,4 @@
 	+ ETDA Digital Citizen (EDC) Trainer
 	+ Media Literacy Expert – Thai Media Fund
 	
-* There's no one right way to teach—everyone has their own style!
+"There's no one right way to teach — everyone has their own style!"
