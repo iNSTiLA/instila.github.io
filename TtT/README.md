@@ -44,6 +44,27 @@
 	
 ### "There's no one right way to teach — everyone has their own style!"
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 |:-----:|:--------------------------------------------------------------------:|
 | Boy   |  ![Boy](TAs/Boy.png "SysAdmin Day 2023 - Live in Vientiane")         |
 | Ham   |  ![Ham](TAs/Ham.png "SysAdmin Day 2023 - Live in Vientiane")         |
