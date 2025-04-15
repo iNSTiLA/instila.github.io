@@ -37,10 +37,15 @@
 	+ ETDA Digital Citizen (EDC) Trainer
 	+ Media Literacy Expert – Thai Media Fund
 + **Guest Instructor(s)**
-	+ Boy ![Boy](TAs/Boy.png "Boy")
-	+ Ham ![Ham](TAs/Ham.png "Ham")
-	+ Phet ![Sayphet](TAs/Sayphet.png "Sayphet")
-	+ Pele ![Pele](TAs/Pele.jpg "Pele")
+
+
+|:-----:|:--------------------------------------------------------------------:|
+| Boy   |  ![Boy](TAs/Boy.png "SysAdmin Day 2023 - Live in Vientiane")         |
+| Ham   |  ![Ham](TAs/Ham.png "SysAdmin Day 2023 - Live in Vientiane")         |
+| Phet  |  ![Sayphet](TAs/Sayphet.png "SysAdmin Day 2024 - Live in4Vientiane") |
+| Pele  |  ![Pele](TAs/Pele.jpg "LANOG 2.0")                                   |
+
+
 	
 ### "There's no one right way to teach — everyone has their own style!"
 
