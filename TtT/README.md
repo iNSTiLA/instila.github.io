@@ -1,11 +1,11 @@
 # Train the Trainer (TtT) Workshop
 
-+ Course Details
++ *Course Details*
 	+ Date : *June 23-24, 2025*
 	+ Time : *8:45 AM - 4:15 PM*
 	+ Venue : *TBD*
 
-+ Instructor
++ *Instructor*
 	+ Microsoft MVP (Most Valuable Professional) – Security
 	+ Approved Volunteer – Center for Cyber Safe and Education
 	+ CompTIA Certified Technical Trainer (CTT+) – Classroom Trainer
