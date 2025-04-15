@@ -1,5 +1,14 @@
 # Train the Trainer (TtT) Workshop
 
++ Date : 
+	+ June 23-24, 2025
+	
++ Time :
+	+ 8:45 AM - 4:15 PM
+	
++ Venue :
+	+ TBD
+
 + Instructor
 	+ Microsoft MVP (Most Valuable Professional) – Security
 	+ Approved Volunteer – Center for Cyber Safe and Education
