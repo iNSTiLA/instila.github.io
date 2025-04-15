@@ -25,7 +25,7 @@
 		+ Batch 2: **June 23-24, 2025**
 	+ Time : **8:45 AM - 4:15 PM**
 	+ Venue : **TBD**
-	+ Course Fee : 4,999,000 LAK
+	+ Course Fee : **4,999,000** LAK
 
 + **Instructor**
 	+ ***Maykin Warasart***
