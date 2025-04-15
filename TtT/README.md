@@ -20,6 +20,6 @@
 
 	+ TA
 
-		![Boy](TAs/Boy.png "Boy") ![Call for Speakers](img/CFP.png "Call for Speakers") ![Call for Speakers](img/CFP.png "Call for Speakers") ![Call for Speakers](img/CFP.png "Call for Speakers")
+		![Boy](TAs/Boy.png "Boy") ![Ham](TAs/Ham.png "Call for Speakers") ![Call for Speakers](img/CFP.png "Call for Speakers") ![Call for Speakers](img/CFP.png "Call for Speakers")
 	
 ### "There's no one right way to teach — everyone has their own style!"
