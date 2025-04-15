@@ -37,13 +37,11 @@
 	+ ETDA Digital Citizen (EDC) Trainer
 	+ Media Literacy Expert – Thai Media Fund
 + **Guest Instructor(s)**
-
-
-|:-----:|:--------------------------------------------------------------------:|
-| Boy   |  ![Boy](TAs/Boy.png "SysAdmin Day 2023 - Live in Vientiane")         |
-| Ham   |  ![Ham](TAs/Ham.png "SysAdmin Day 2023 - Live in Vientiane")         |
-| Phet  |  ![Sayphet](TAs/Sayphet.png "SysAdmin Day 2024 - Live in4Vientiane") |
-| Pele  |  ![Pele](TAs/Pele.jpg "LANOG 2.0")                                   |
+	|:-----:|:--------------------------------------------------------------------:|
+	| Boy   |  ![Boy](TAs/Boy.png "SysAdmin Day 2023 - Live in Vientiane")         |
+	| Ham   |  ![Ham](TAs/Ham.png "SysAdmin Day 2023 - Live in Vientiane")         |
+	| Phet  |  ![Sayphet](TAs/Sayphet.png "SysAdmin Day 2024 - Live in4Vientiane") |
+	| Pele  |  ![Pele](TAs/Pele.jpg "LANOG 2.0")                                   |
 
 
 	
