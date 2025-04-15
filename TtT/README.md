@@ -18,6 +18,9 @@
 	+ ETDA Digital Citizen (EDC) Trainer
 	+ Media Literacy Expert – Thai Media Fund
 	+ **TA**
-		![Boy](TAs/Boy.png "Boy") ![Ham](TAs/Ham.png "Ham") ![Sayphet](TAs/Sayphet.png "Sayphet") ![Pele](TAs/Pele.jpg "Pele")
+		+ Boy ![Boy](TAs/Boy.png "Boy")
+		+ Ham ![Ham](TAs/Ham.png "Ham")
+		+ Phet ![Sayphet](TAs/Sayphet.png "Sayphet")
+		+ Pele ![Pele](TAs/Pele.jpg "Pele")
 	
 ### "There's no one right way to teach — everyone has their own style!"
