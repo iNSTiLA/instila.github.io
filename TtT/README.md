@@ -25,7 +25,7 @@
 		+ Batch 2: **(Mon & Tue) June 23-24, 2025**
 		+ Batch 3: **TBA**
 	+ Time : **8:45 AM - 4:15 PM**
-	+ Venue : **Lao Airlines bldg.**
+	+ Venue : **[Lao Airlines bldg.](https://maps.google.com/maps/dir//Lao+airlines+XJ74%2BG92+Vientiane/@17.9638166,102.605918,21z/data=!4m5!4m4!1m0!1m2!1m1!1s0x312469bdbab2b48f:0x92c0b3ecebaacf1d)**
 	+ Course Fee : **4,999,000** LAK
 
 + **Instructor**
