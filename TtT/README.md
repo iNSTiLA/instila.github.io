@@ -25,7 +25,7 @@
 		+ Batch 2: **(Mon & Tue) June 23-24, 2025**
 		+ Batch 3: **TBA**
 	+ Time : **8:45 AM - 4:15 PM**
-	+ Venue : **TBD**
+	+ Venue : **Lao Airlines bldg.**
 	+ Course Fee : **4,999,000** LAK
 
 + **Instructor**
