@@ -39,13 +39,13 @@
 		+ Media Literacy Expert – Thai Media Fund
 + **Guest Instructor(s)**
 
-	|:-----:|:--------------------------------------------------------------------:|
-	| Boy   |  ![Boy](TAs/Boy.png "SysAdmin Day 2023 - Live in Vientiane")         |
-	| Ham   |  ![Ham](TAs/Ham.png "SysAdmin Day 2023 - Live in Vientiane")         |
-	| Phet  |  ![Sayphet](TAs/Sayphet.png "SysAdmin Day 2024 - Live in4Vientiane") |
-	| Pele  |  ![Pele](TAs/Pele.jpg "LANOG 2.0")                                   |
-
+	![Boy](TAs/Boy.png "Boy @ SysAdmin Day 2023 - Live in Vientiane") ![Ham](TAs/Ham.png "Ham @ SysAdmin Day 2023 - Live in Vientiane") ![Sayphet](TAs/Sayphet.png "Sayphet @ SysAdmin Day 2024 - Live in4Vientiane") ![Pele](TAs/Pele.jpg "Pele @ LANOG 2.0")                                   |
 
 	
 ### "There's no one right way to teach — everyone has their own style!"
 
+|:-----:|:--------------------------------------------------------------------:|
+| Boy   |  ![Boy](TAs/Boy.png "SysAdmin Day 2023 - Live in Vientiane")         |
+| Ham   |  ![Ham](TAs/Ham.png "SysAdmin Day 2023 - Live in Vientiane")         |
+| Phet  |  ![Sayphet](TAs/Sayphet.png "SysAdmin Day 2024 - Live in4Vientiane") |
+| Pele  |  ![Pele](TAs/Pele.jpg "LANOG 2.0")                                   |
