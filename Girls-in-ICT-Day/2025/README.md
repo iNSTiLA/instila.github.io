@@ -4,10 +4,10 @@
 ![Call for Speakers](img/CFP.png "Call for Speakers")
 
 
-| From  |   To  |  Topic         |
-|:-----:|:-----:|:---------------|
-| 08:45 | 09:00 |                |
-| 12:00 | 13:30 | Lunch          |
+| From  |  To   |  Topic                  |
+|:-----:|:-----:|:------------------------|
+| 08:45 | 09:00 |                         |
+| 12:00 | 13:30 | Lunch                   |
 
 
 #### Lucky Draw
