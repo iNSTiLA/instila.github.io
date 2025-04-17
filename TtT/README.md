@@ -37,6 +37,7 @@
 		+ Microsoft Certified Trainer (MCT)
 		+ Microsoft Certified Educator (MCE)
 		+ Google Certified Educator (GCE) Level 1 & 2
+		+ Linux Professional Institute (LPI) - Approved Trainer
 		+ Modern Certified Classroom Trainer (MCCT) – Logical Operations
 		+ CIW – Certified Instructor (CI)
 		+ CAI – CertNexus Authorized Instructor
