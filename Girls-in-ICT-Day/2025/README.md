@@ -7,7 +7,7 @@
 | From  |  To   |  Activities/Topics                                                                 |
 |:-----:|:-----:|:-----------------------------------------------------------------------------------|
 | 08:45 | 09:00 | **Registration** & ***Lucky Draw***                                                |
-| 09:00 | 09:15 | **Digital Safety & DX require Girls in Tech** <br>--- ***MK*                       |
+| 09:00 | 09:15 | **Opening** - ***Digital Safety & DX require Girls in Tech*** <br>--- ***MK***     |
 | 09:15 | 09:30 | **Switch and Grils**                                                               |
 | 09:30 | 10:15 | **Women and Girls in AI** <br>--- ***Wanchanok Sunthorn***                         |
 | 10:15 | 10:30 | ***---Break---***                                                                  |
