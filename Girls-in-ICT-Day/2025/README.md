@@ -21,6 +21,15 @@
 | 15:45 | 16:00 | (Lucky Draw)*, Closing            |
 
 
+### Confirmed Speaker(s)
++ AA
+	+ aa
+	+ ab
++ BB
+	+ ba
+	+ bb
+
+
 #### Lucky Draw*
 + [Train the Trainer (TtT) Workshop](https://instila.github.io/TtT)
 + [CompTIA Security+ Course](https://ubslao.com/Courses/CompTIA/Security+)
