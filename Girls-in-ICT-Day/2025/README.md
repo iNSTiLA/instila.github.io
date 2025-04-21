@@ -12,11 +12,7 @@
 | 09:30 | 10:15 | **Women and Girls in AI** <br>--- *Asst.Prof.Wanchanok Sunthorn*                                         |
 | 10:15 | 10:30 | ***---Break---***                                                                                        |
 | 10:30 | 11:15 | **Women and Girls in Remote Working** <br>--- *Pinkeo KHEMKHAMPHOUMEE*                                   |
-| 11:15 | 11:45 | **Girls in ...**                                                                                         |
-| 11:45 | 13:15 | ***---Lunch---***                                                                                        |
-| 13:15 | 13:30 | ***Lucky Draw***                                                                                         |
-| 13:30 | 14:30 | **Women and Girls in ICT Talk**                                                                          |
-| 14:30 | 14:45 | ***Lucky Draw*** & **Closing**                                                                           |
+| 11:15 | 11:30 | ***Lucky Draw*** & **Closing**                                                                           |
 
 
 ### Confirmed Speaker(s)
