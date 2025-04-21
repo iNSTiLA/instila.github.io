@@ -11,7 +11,7 @@
 | 09:15 | 09:30 | **Switch and Grils**                                                               |
 | 09:30 | 10:15 | **Women and Girls in AI** <br> Asst.Prof. **Wanchanok Sunthorn**                   |
 | 10:15 | 10:30 | ***---Break---***                                                                  |
-| 10:30 | 11:15 | **Women and Girls in Remote Working**  Miss **Pinkeo KHEMKHAMPHOUMEE**         |
+| 10:30 | 11:15 | **Women and Girls in Remote Working** <br> Miss **Pinkeo KHEMKHAMPHOUMEE**         |
 | 11:15 | 11:45 | **Girls in Wireless Networking**                                                   |
 | 11:45 | 13:15 | ***---Lunch---***                                                                  |
 | 13:15 | 13:30 | ***Lucky Draw***                                                                   |
@@ -21,8 +21,8 @@
 
 ### Confirmed Speaker(s)
 + Asst.Prof. Wanchanok Sunthorn
-	+ Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)
-	+ PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology. Asian Institute of Technology (AIT)
+	+ Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)
+	+ PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology, Asian Institute of Technology (AIT)
 + Miss Pinkeo KHEMKHAMPHOUMEE
 	+ Electronic & Telecommunication Lab, Faculty of Engineering, National University of Laos
 	+ Head of Satellite & Country VP Laos at RIFFAI
