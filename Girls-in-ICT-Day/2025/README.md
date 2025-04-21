@@ -7,11 +7,11 @@
 | From  |  To   |  Activities/Topics                                                                 |
 |:-----:|:-----:|:-----------------------------------------------------------------------------------|
 | 08:45 | 09:00 | **Registration** & ***Lucky Draw***                                                |
-| 09:00 | 09:15 | **Opening** - ***Digital Safety & DX require Girls in ICT*** <br>--- *MK*      |
-| 09:15 | 09:30 | **Switch and Grils** <br>--- *TN*                                              |
-| 09:30 | 10:15 | **Women and Girls in AI** <br>--- *Wanchanok Sunthorn*                         |
+| 09:00 | 09:15 | **Opening** - ***Digital Safety & DX require Girls in ICT*** <br>--- *MK*          |
+| 09:15 | 09:30 | **Switch and Grils** <br>--- *TN*                                                  |
+| 09:30 | 10:15 | **Women and Girls in AI** <br>--- *Wanchanok Sunthorn*                             |
 | 10:15 | 10:30 | ***---Break---***                                                                  |
-| 10:30 | 11:15 | **Women and Girls in Remote Working** <br>--- *Pinkeo KHEMKHAMPHOUMEE*         |
+| 10:30 | 11:15 | **Women and Girls in Remote Working** <br>--- *Pinkeo KHEMKHAMPHOUMEE*             |
 | 11:15 | 11:45 | **Girls in Wireless Networking**                                                   |
 | 11:45 | 13:15 | ***---Lunch---***                                                                  |
 | 13:15 | 13:30 | ***Lucky Draw***                                                                   |
