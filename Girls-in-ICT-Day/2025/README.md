@@ -8,7 +8,7 @@
 |:-----:|:-----:|:-----------------------------------------------------------------------------------|
 | 08:45 | 09:00 | **Registration** & ***Lucky Draw***                                                |
 | 09:00 | 09:15 | **Opening** - ***Digital Safety & DX require Girls in ICT*** <br>--- ***MK***      |
-| 09:15 | 09:30 | **Switch and Grils**                                                               |
+| 09:15 | 09:30 | **Switch and Grils** <br>--- ***TN***                                              |
 | 09:30 | 10:15 | **Women and Girls in AI** <br>--- ***Wanchanok Sunthorn***                         |
 | 10:15 | 10:30 | ***---Break---***                                                                  |
 | 10:30 | 11:15 | **Women and Girls in Remote Working** <br>--- ***Pinkeo KHEMKHAMPHOUMEE***         |
