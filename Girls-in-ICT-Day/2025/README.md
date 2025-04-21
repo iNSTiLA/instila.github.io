@@ -14,7 +14,7 @@
 | 10:30 | 11:15 | **Women and Girls in Remote Working**                                              |
 | 11:15 | 11:45 | **Girls in Wireless Networking**                                                   |
 | 11:45 | 13:15 | ***---Lunch---***                                                                  |
-| 13:15 | 13:30 | ***Lucky Draw*** *                                                                 |
+| 13:15 | 13:30 | ***Lucky Draw***                                                                   |
 | 13:30 | 14:30 | **Women and Girls in ICT Talk**                                                    |
 | 14:30 | 14:45 | ***Lucky Draw*** & **Closing**                                                     |
 
