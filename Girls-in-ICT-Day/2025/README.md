@@ -19,6 +19,7 @@
 | 14:30 | 14:45 | ***Lucky Draw*** & **Closing**                                                     |
 
 
+
 ### Confirmed Speaker(s)
 + ***Asst.Prof.*** **Wanchanok Sunthorn**
 	+ Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)
