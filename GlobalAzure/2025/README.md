@@ -30,7 +30,7 @@
 
 ![alt text](https://sysadminday.github.io/2023/VTE/Supporters/mks.png "Title")
 
-![alt text](https://sysadminday.github.io/2023/VTE/Supporters/ubsl.webp "Title")
+![UBS LAO](../../../Logos/UBSL.png "UBS LAO")
 
 ![alt text](https://sysadminday.github.io/2024/VTE/Supporters/verisette-logo.png "Title")
 
