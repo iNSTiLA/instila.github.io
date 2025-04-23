@@ -3,6 +3,8 @@
 + Time : **1:00** PM - **4:15** PM
 + Venue : **LTC** ***(Common Room, 9th floor.)***
 
+![iNSTiLA](https://sysadminday.github.io/2024/VTE/Supporters/insti.png "iNSTiLA")
+
 | From  |  To   |  Activities/Topics                                                       |
 |:-----:|:-----:|:-------------------------------------------------------------------------|
 | 13:00 | 13:35 | **Registration** & ***Lucky Draw***                                      |
@@ -22,3 +24,13 @@
 	+ Microsoft MVP - Security
 + **Thongsavanh VILAYVONG**
 	+ Tier 2 Incident Response, Lao Telecom
+
+
+### Event Supporter(s)
+
+![alt text](https://sysadminday.github.io/2024/VTE/Supporters/insti.png "Title")
+
+https://sysadminday.github.io/2023/VTE/Supporters/mks.png
+https://sysadminday.github.io/2023/VTE/Supporters/ubsl.webp
+https://sysadminday.github.io/2024/VTE/Supporters/verisette-logo.png
+https://sysadminday.github.io/2023/VTE/Supporters/VolunteX.png
