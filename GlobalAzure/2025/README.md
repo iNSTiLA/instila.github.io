@@ -6,7 +6,7 @@
 | From  |  To   |  Activities/Topics                                                       |
 |:-----:|:-----:|:-------------------------------------------------------------------------|
 | 13:00 | 13:35 | **Registration** & ***Lucky Draw***                                      |
-| 13:35 | 13:45 | **Opening** <br>--- *Maykin Warasart*                                    |
+| 13:35 | 13:45 | **Opening**  --- *Maykin Warasart*                                       |
 | 13:45 | 14:30 | **Azure OpenAI Service models** --- *Asst.Prof.Wanchanok Sunthorn*       |
 | 14:30 | 14:45 | ***---Break---***                                                        |
 | 14:45 | 15:15 | **Defending Azure** - ***Part 1*** --- *Maykin Warasart*                 |
