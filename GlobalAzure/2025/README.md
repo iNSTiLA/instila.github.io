@@ -21,4 +21,4 @@
 + **Maykin Warasart**
 	+ Microsoft MVP - Security
 + **Thongsavanh VILAYVONG**
-	+ Lao Telecom
+	+ Tier 2 Incident Response, Lao Telecom
