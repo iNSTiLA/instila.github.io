@@ -28,9 +28,13 @@
 
 ### Event Supporter(s)
 
-![alt text](https://sysadminday.github.io/2024/VTE/Supporters/insti.png "Title")
+![alt text](https://sysadminday.github.io/2023/VTE/Supporters/mks.png "Title")
 
-https://sysadminday.github.io/2023/VTE/Supporters/mks.png
-https://sysadminday.github.io/2023/VTE/Supporters/ubsl.webp
-https://sysadminday.github.io/2024/VTE/Supporters/verisette-logo.png
-https://sysadminday.github.io/2023/VTE/Supporters/VolunteX.png
+![alt text](https://sysadminday.github.io/2023/VTE/Supporters/ubsl.webp "Title")
+
+![alt text](https://sysadminday.github.io/2024/VTE/Supporters/verisette-logo.png "Title")
+
+![alt text](https://sysadminday.github.io/2023/VTE/Supporters/VolunteX.png "Title")
+
+
+
