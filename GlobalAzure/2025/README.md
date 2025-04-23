@@ -3,10 +3,10 @@
 | From  |  To   |  Activities/Topics                                                       |
 |:-----:|:-----:|:-------------------------------------------------------------------------|
 | 13:35 | 13:45 | **Opening** <br>--- *Maykin Warasart*                                    |
-| 13:45 | 14:30 | **Azure OpenAI Service models** <br>--- *Asst.Prof.Wanchanok Sunthorn*   |
+| 13:45 | 14:30 | **Azure OpenAI Service models** --- *Asst.Prof.Wanchanok Sunthorn*   |
 | 14:30 | 14:45 | ***---Break---***                                                        |
-| 14:45 | 15:15 | **Defending Azure** - ***Part 1*** <br>--- *Maykin Warasart*             |
-| 15:15 | 16:00 | **Defending Azure** - ***Part 2*** <br>--- *Thongsavanh VILAYVONG*       |
+| 14:45 | 15:15 | **Defending Azure** - ***Part 1*** --- *Maykin Warasart*             |
+| 15:15 | 16:00 | **Defending Azure** - ***Part 2*** --- *Thongsavanh VILAYVONG*       |
 | 16:00 | 16:15 | ***Lucky Draw*** & **Closing**                                           |
 
 
