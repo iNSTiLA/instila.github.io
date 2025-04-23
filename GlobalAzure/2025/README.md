@@ -1,7 +1,7 @@
 # Global Azure 2025 - Vientiane
-
-### Date : May 9, 2025
-### Time : 1:00 PM - 4:15 PM
++ Date : May 9, 2025
++ Time : 1:00 PM - 4:15 PM
++ Venue : LTC
 
 | From  |  To   |  Activities/Topics                                                       |
 |:-----:|:-----:|:-------------------------------------------------------------------------|
