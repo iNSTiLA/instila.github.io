@@ -11,9 +11,9 @@
 | 13:00 | 13:35 | **Registration** & ***Lucky Draw***                                      |
 | 13:35 | 13:45 | **Welcome note**                                                         |
 | 13:45 | 14:30 | **Azure OpenAI Service models**<br> --- *Asst.Prof.Wanchanok Sunthorn*   |
-| 14:30 | 14:45 | ***Break*** & ***Networking***                                        |
+| 14:30 | 14:45 | ***Break*** & ***Networking***                                           |
 | 14:45 | 15:15 | **Security in Well-Architected Framework**<br> --- *Maykin Warasart*     |
-| 15:15 | 16:00 | **Defending Azure**<br> --- *Thongsavanh VILAYVONG*                          |
+| 15:15 | 16:00 | **Defending Azure**<br> --- *Thongsavanh VILAYVONG*                      |
 | 16:00 | 16:15 | ***Lucky Draw*** & **Closing**                                           |
 
 
