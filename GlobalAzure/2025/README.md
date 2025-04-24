@@ -12,8 +12,8 @@
 | 13:35 | 13:45 | **Welcome**  --- *Maykin Warasart*                                       |
 | 13:45 | 14:30 | **Azure OpenAI Service models** --- *Asst.Prof.Wanchanok Sunthorn*       |
 | 14:30 | 14:45 | ***---Break---*** & ***Networking***                                     |
-| 14:45 | 15:15 | **Defending Azure** - ***Part 1*** --- *Maykin Warasart*                 |
-| 15:15 | 16:00 | **Defending Azure** - ***Part 2*** --- *Thongsavanh VILAYVONG*           |
+| 14:45 | 15:15 | **Security in Well-Architected Framework** --- *Maykin Warasart*         |
+| 15:15 | 16:00 | **Defending Azure** --- *Thongsavanh VILAYVONG*                          |
 | 16:00 | 16:15 | ***Lucky Draw*** & **Closing**                                           |
 
 
