@@ -2,6 +2,7 @@
 + Date : ***(Fri)*** **May 9, 2025**
 + Time : **1:00** PM - **4:15** PM
 + Venue : **LTC** ***(Common Room, 9th floor.)***
++ Registration : ***https://forms.gle/hfZxMgrcqca2Qvci8***
 
 ![iNSTiLA](https://sysadminday.github.io/2024/VTE/Supporters/insti.png "iNSTiLA")
 
