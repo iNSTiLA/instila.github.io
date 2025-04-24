@@ -4,7 +4,7 @@
 + Venue : **LTC** ***(Common Room, 9th floor.)***
 + Registration : ***[Here!](https://forms.gle/hfZxMgrcqca2Qvci8)***
 
-![iNSTiLA](https://sysadminday.github.io/2024/VTE/Supporters/insti.png "iNSTiLA")
+![Global Azure Vientiane 2025 by iNSTiLA](img/logo.png "Global Azure Vientiane 2025 by iNSTiLA")
 
 | From  |  To   |  Activities/Topics                                                       |
 |:-----:|:-----:|:-------------------------------------------------------------------------|
