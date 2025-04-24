@@ -25,7 +25,3 @@
 	+ Microsoft MVP - Security
 + **Thongsavanh VILAYVONG**
 	+ Tier 2 Incident Response, Lao Telecom
-
-
-
-
