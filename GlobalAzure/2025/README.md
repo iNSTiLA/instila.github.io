@@ -27,15 +27,5 @@
 	+ Tier 2 Incident Response, Lao Telecom
 
 
-### Event Supporter(s)
-
-![alt text](https://sysadminday.github.io/2023/VTE/Supporters/mks.png "Title")
-
-![UBS LAO](../../../Logos/UBSL.png "UBS LAO")
-
-![alt text](https://sysadminday.github.io/2024/VTE/Supporters/verisette-logo.png "Title")
-
-![alt text](https://sysadminday.github.io/2023/VTE/Supporters/VolunteX.png "Title")
-
 
 
