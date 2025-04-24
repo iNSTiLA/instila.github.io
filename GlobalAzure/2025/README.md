@@ -1,10 +1,10 @@
-# Global Azure Vientiane 2025
+![Global Azure Vientiane 2025 by iNSTiLA](img/logo.png "Global Azure Vientiane 2025 by iNSTiLA")
+
 + Date : ***(Fri)*** **May 9, 2025**
 + Time : **1:00** PM - **4:15** PM
 + Venue : **LTC** ***(Common Room, 9th floor.)***
 + Registration : ***[Here!](https://forms.gle/hfZxMgrcqca2Qvci8)***
 
-![Global Azure Vientiane 2025 by iNSTiLA](img/logo.png "Global Azure Vientiane 2025 by iNSTiLA")
 
 | From  |  To   |  Activities/Topics                                                       |
 |:-----:|:-----:|:-------------------------------------------------------------------------|
