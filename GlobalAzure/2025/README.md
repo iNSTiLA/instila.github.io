@@ -1,5 +1,5 @@
 ![Global Azure Vientiane 2025 by iNSTiLA](img/logo.png "Global Azure Vientiane 2025 by iNSTiLA")
-
++ CFS : ***[Sessionize](https://sessionize.com/global-azure-vientiane-2025/)***
 + Date : ***(Fri)*** **May 9, 2025**
 + Time : **1:00** PM - **4:15** PM
 + Venue : **LTC** ***(9th floor.)***
