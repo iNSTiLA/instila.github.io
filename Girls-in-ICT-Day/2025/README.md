@@ -8,11 +8,12 @@
 |:-----:|:-----:|:---------------------------------------------------------------------------------------------------------|
 | 08:45 | 09:00 | **Registration** & ***Lucky Draw***                                                                      |
 | 09:00 | 09:15 | **Opening** - ***"Digital Safety & DX require Girls in ICT"*** <br>--- *Maykin Warasart*                 |
-| 09:15 | 09:30 | **Switch! and Girls** <br>--- *Phonesavanh NAMMAKONE*                                                                        |
+| 09:15 | 09:30 | **Switch! and Girls** <br>--- *Phonesavanh NAMMAKONE*                                                    |
 | 09:30 | 10:15 | **Women and Girls in AI** <br>--- *Asst.Prof.Wanchanok Sunthorn*                                         |
 | 10:15 | 10:30 | ***---Break---***                                                                                        |
-| 10:30 | 11:15 | **TBA**                                                                                                  |
-| 11:15 | 11:45 | ***Lucky Draw*** & **Closing**                                                                           |
+| 10:30 | 11:00 | **TBA**                                                                                                  |
+| 11:00 | 11:45 | **TBA**                                                                                                  |
+| 11:45 | 12:00 | ***Lucky Draw*** & **Closing**                                                                           |
 
 
 ### Confirmed Speaker(s)
