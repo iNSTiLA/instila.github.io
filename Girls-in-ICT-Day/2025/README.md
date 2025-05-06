@@ -11,7 +11,7 @@
 | 09:15 | 09:30 | **Switch and Girls** <br>--- *TN*                                                                        |
 | 09:30 | 10:15 | **Women and Girls in AI** <br>--- *Asst.Prof.Wanchanok Sunthorn*                                         |
 | 10:15 | 10:30 | ***---Break---***                                                                                        |
-| 10:30 | 11:15 | **Women and Girls in Remote Working** <br>--- *Pinkeo KHEMKHAMPHOUMEE*                                   |
+| 10:30 | 11:15 | **TBA**                                                                                                  |
 | 11:15 | 11:30 | ***Lucky Draw*** & **Closing**                                                                           |
 
 
@@ -19,9 +19,7 @@
 + ***Asst.Prof.*** **Wanchanok Sunthorn**
 	+ Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)
 	+ PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology, Asian Institute of Technology (AIT)
-+ **Pinkeo KHEMKHAMPHOUMEE**
-	+ Electronic & Telecommunication Lab, Faculty of Engineering, National University of Laos
-	+ Head of Satellite & Country VP Laos at RIFFAI
+
 
 #### Lucky Draw *
 + [Train the Trainer (TtT) Workshop](https://instila.github.io/TtT)
