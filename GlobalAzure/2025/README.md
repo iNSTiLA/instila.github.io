@@ -2,7 +2,7 @@
 + CFS : ***[Sessionize](https://sessionize.com/global-azure-vientiane-2025/)***
 + Date : ***(Fri)*** **May 9, 2025**
 + Time : **1:00** PM - **4:15** PM
-+ Venue : **LTC** ***(9th floor.)***
++ Venue : **Lab de Lines - Coworking Space**
 + Registration : ***[Here!](https://forms.gle/hfZxMgrcqca2Qvci8)***
 
 
