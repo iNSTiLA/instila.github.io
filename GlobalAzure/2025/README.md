@@ -9,7 +9,7 @@
 | From  |  To   |  Activities/Topics                                                       |
 |:-----:|:-----:|:-------------------------------------------------------------------------|
 | 13:00 | 13:35 | **Registration** & ***Lucky Draw***                                      |
-| 13:35 | 13:45 | **[Welcome note](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1?sessionId=919627)**<br> --- *Dr.Veerasith Wongkarn*                                                 |
+| 13:35 | 13:45 | **[Welcome Note - The Age of AI](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1?sessionId=919627)**<br> --- *Dr.Veerasith Wongkarn*                                 |
 | 13:45 | 14:30 | **[OpenAI Service models](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1?sessionId=918124)**<br> --- *Asst.Prof.Wanchanok Sunthorn*                                 |
 | 14:30 | 14:45 | ***Break*** & ***Networking***                                                                                                                                                           |
 | 14:45 | 15:15 | **[Security in Well-Architected Framework](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1?sessionId=918683)**<br> --- *Maykin Warasart*                             |
