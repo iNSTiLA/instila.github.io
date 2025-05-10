@@ -21,11 +21,11 @@
 + **Maykin Warasart**
 	+ Microsoft Most Valuable Professional (MVP) - Security
 	+ iNSTi.LA Founder
++ **Phonesavanh NAMMAKONE**
+	+ Assistant Sale Manager, Verisette
 + ***Asst.Prof.*** **Wanchanok Sunthorn**
 	+ Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)
 	+ PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology, Asian Institute of Technology (AIT)
-+ **Phonesavanh NAMMAKONE**
-	+ Assistant Sale Manager, Verisette
 + **Soulintar INSAVANH** & **Duangtavanh THATSAPHONE**
 	+ MK's Angels
 
