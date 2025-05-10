@@ -11,12 +11,12 @@
 | From  |  To   |  Activities/Topics                                                       |
 |:-----:|:-----:|:-------------------------------------------------------------------------|
 | 13:00 | 13:35 | **Registration**                                                         |
-| 13:35 | 13:45 | **[Welcome Note - The Age of AI](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1?sessionId=919627)**<br> --- *Dr.Veerasith Wongkarn*                                 |
-| 13:45 | 14:30 | **[OpenAI Service models](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1?sessionId=918124)**<br> --- *Asst.Prof.Wanchanok Sunthorn*                                 |
-| 14:30 | 14:45 | ***Break*** & ***Networking***                                                                                                                                                           |
-| 14:45 | 15:15 | **[Security in Well-Architected Framework](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1?sessionId=918683)**<br> --- *Maykin Warasart*                             |
-| 15:15 | 16:00 | **[Defending Azure](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1?sessionId=918133)**<br> --- *Thongsavanh VILAYVONG*                                              |
-| 16:00 | 16:30 | **[Microsoft Learn Paves the Way to the Cloud for Girls in ICT](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1?sessionId=924994)**<br> --- *Phonesavanh NAMMAKONE*  |
+| 13:35 | 13:45 | **[Welcome Note - The Age of AI](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1?sessionId=919627)**<br> --- *Dr.Veerasith Wongkarn*                                   |
+| 13:45 | 14:30 | **[OpenAI Service models](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1?sessionId=918124)**<br> --- *Asst.Prof.Wanchanok Sunthorn*                                   |
+| 14:30 | 14:45 | ***Break*** & ***Networking***                                                                                                                                                             |
+| 14:45 | 15:15 | **[Security in Well-Architected Framework](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1?sessionId=918683)**<br> --- *Maykin Warasart*                               |
+| 15:15 | 16:00 | **[Defending Azure](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1?sessionId=918133)**<br> --- *Thongsavanh VILAYVONG*                                                |
+| 16:00 | 16:30 | **["Microsoft Learn" Paves the Way to the Cloud for Girls in ICT](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1?sessionId=924994)**<br> --- *Phonesavanh NAMMAKONE*  |
 | 16:30 | 16:45 | **Closing**                                                             |
 
 
