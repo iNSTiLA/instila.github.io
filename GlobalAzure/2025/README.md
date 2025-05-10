@@ -34,6 +34,8 @@
 + **Phonesavanh NAMMAKONE**
 	+ Verisette Lao
 
+![Global Azure Vientiane 2025 by iNSTiLA](img/MK-0.JPG "Global Azure Vientiane 2025 by iNSTiLA")
+
 ![Global Azure Vientiane 2025 by iNSTiLA](img/Tunie-0.jpg "Global Azure Vientiane 2025 by iNSTiLA")
 
 ![Global Azure Vientiane 2025 by iNSTiLA](img/Amp-1.JPG "Global Azure Vientiane 2025 by iNSTiLA")
@@ -45,8 +47,6 @@
 ![Global Azure Vientiane 2025 by iNSTiLA](img/Jimmy-2.JPG "Global Azure Vientiane 2025 by iNSTiLA")
 
 ![Global Azure Vientiane 2025 by iNSTiLA](img/Jimmy-3.JPG "Global Azure Vientiane 2025 by iNSTiLA")
-
-![Global Azure Vientiane 2025 by iNSTiLA](img/MK-0.JPG "Global Azure Vientiane 2025 by iNSTiLA")
 
 ![Global Azure Vientiane 2025 by iNSTiLA](img/MK-1.jpg "Global Azure Vientiane 2025 by iNSTiLA")
 
