@@ -5,7 +5,7 @@
 + Venue : **Lab de Lines - Coworking Space**
 
 
-[![Global Azure Vientiane 2025 by iNSTiLA](img/After-the-Match-small.png "Global Azure Vientiane 2025 by iNSTiLA")](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1)
+[![Global Azure Vientiane 2025 by iNSTiLA](img/After-the-Match-small.png "Global Azure Vientiane 2025 by iNSTiLA")](img/After-the-Match.png)
 
 
 | From  |  To   |  Activities/Topics                                                       |
