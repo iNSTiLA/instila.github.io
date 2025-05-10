@@ -6,7 +6,6 @@
 
 
 [![Global Azure Vientiane 2025 by iNSTiLA](img/After-the-Match.png "Global Azure Vientiane 2025 by iNSTiLA")](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1)
-+ CFS : ***[Sessionize](https://sessionize.com/global-azure-vientiane-2025/)***
 
 
 | From  |  To   |  Activities/Topics                                                       |
@@ -33,3 +32,4 @@
 	+ Tier 2 Incident Response, Lao Telecom
 + **Phonesavanh NAMMAKONE**
 	+ Verisette Lao
+
