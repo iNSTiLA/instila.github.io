@@ -12,16 +12,23 @@
 | 09:30 | 10:00 | **Switch! and Girls** <br>--- *Phonesavanh NAMMAKONE*                                                    |
 | 10:00 | 11:00 | **Women and Girls in AI** <br>--- *Asst.Prof.Wanchanok Sunthorn*                                         |
 | 11:00 | 11:15 | ***---Break---***                                                                                        |
-| 11:15 | 11:45 | **Girls in Wireless Networking** <br>--- *MK's Angels*                                                   |
+| 11:15 | 11:45 | **Girls in Wireless Networking** <br>--- *Mon & Mouk, MK's Angels*                                                   |
 | 11:45 | 12:00 | ***Lucky Draw*** & **Closing**                                                                           |
 
 ![Girls in ICT Day 2025 (Vientiane) ](img/After-the-Match-small.png "Girls in ICT Day 2025 (Vientiane) ")
 
 
 ### Confirmed Speaker(s)
++ **Maykin Warasart**
+	+ Microsoft Most Valuable Professiona (MVP) - Security
+	+ iNSTi.LA Founder
 + ***Asst.Prof.*** **Wanchanok Sunthorn**
 	+ Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)
 	+ PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology, Asian Institute of Technology (AIT)
++ **Phonesavanh NAMMAKONE**
+	+ Assistant Sale Manager, Verisette
++ **Soulintar INSAVANH** & **Duangtavanh THATSAPHONE**
+	+ MK's Angels
 
 
 #### Lucky Draw *
