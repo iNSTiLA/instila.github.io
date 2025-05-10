@@ -20,7 +20,7 @@
 
 ### Confirmed Speaker(s)
 + **Maykin Warasart**
-	+ Microsoft Most Valuable Professiona (MVP) - Security
+	+ Microsoft Most Valuable Professional (MVP) - Security
 	+ iNSTi.LA Founder
 + ***Asst.Prof.*** **Wanchanok Sunthorn**
 	+ Digital Media Technology Program, Rajamangala University of Technology Thanyaburi (RMUTT)
