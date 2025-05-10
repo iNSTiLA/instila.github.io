@@ -1,19 +1,21 @@
 # Girls in ICT Day 2025 (Vientiane) 
 ### “Girls in ICT for inclusive digital transformation”
 
-![Call for Speakers](img/CFPv3.png "Call for Speakers")
+
+![Girls in ICT Day 2025 (Vientiane) ](img/Before-the-Match-small.png "Girls in ICT Day 2025 (Vientiane) ")
 
 
 | From  |  To   |  Activities/Topics                                                                                       |
 |:-----:|:-----:|:---------------------------------------------------------------------------------------------------------|
 | 09:00 | 09:15 | **Registration** & ***Lucky Draw***                                                                      |
 | 09:15 | 09:30 | **Opening** - ***"Digital Safety & DX require Girls in ICT"*** <br>--- *Maykin Warasart*                 |
-| 09:30 | 09:45 | **Switch! and Girls** <br>--- *Phonesavanh NAMMAKONE*                                                    |
-| 09:45 | 10:30 | **Women and Girls in AI** <br>--- *Asst.Prof.Wanchanok Sunthorn*                                         |
-| 10:30 | 10:45 | ***---Break---***                                                                                        |
-| 10:45 | 11:15 | **Girls in Wireless Networking** <br>--- *MK's Angels*                                                   |
-| 11:15 | 11:45 | **TBA**                                                                                                  |
+| 09:30 | 10:00 | **Switch! and Girls** <br>--- *Phonesavanh NAMMAKONE*                                                    |
+| 10:00 | 11:00 | **Women and Girls in AI** <br>--- *Asst.Prof.Wanchanok Sunthorn*                                         |
+| 11:00 | 11:15 | ***---Break---***                                                                                        |
+| 11:15 | 11:45 | **Girls in Wireless Networking** <br>--- *MK's Angels*                                                   |
 | 11:45 | 12:00 | ***Lucky Draw*** & **Closing**                                                                           |
+
+![Girls in ICT Day 2025 (Vientiane) ](img/After-the-Match-small.png "Girls in ICT Day 2025 (Vientiane) ")
 
 
 ### Confirmed Speaker(s)
@@ -26,3 +28,5 @@
 + [Train the Trainer (TtT) Workshop](https://instila.github.io/TtT)
 + [CompTIA Security+ Course](https://ubslao.com/Courses/CompTIA/Security+)
 + [CompTIA Project+ Course](#)
+
+![Call for Speakers](img/CFPv3.png "Call for Speakers")
