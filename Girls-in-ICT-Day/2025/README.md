@@ -7,7 +7,7 @@
 
 | From  |  To   |  Activities/Topics                                                                          |
 |:-----:|:-----:|:--------------------------------------------------------------------------------------------|
-| 09:00 | 09:15 | **Registration** & ***Lucky Draw***                                                         |
+| 09:00 | 09:15 | **Registration**                                                                            |
 | 09:15 | 09:30 | **Opening** - ***"Digital Safety & DX require Girls in ICT"*** <br>--- *Maykin Warasart*    |
 | 09:30 | 10:00 | **Switch! and Girls** <br>--- *Phonesavanh NAMMAKONE*                                       |
 | 10:00 | 11:00 | **Women and Girls in AI** <br>--- *Asst.Prof.Wanchanok Sunthorn*                            |
@@ -36,5 +36,15 @@
 + [CompTIA Project+ Course](#)
 
 ![Call for Speakers](img/CFPv3.png "Call for Speakers")
+
+![Girls in ICT Day 2025 (Vientiane) ](img/MK-2.jpg "Girls in ICT Day 2025 (Vientiane) ")
+
+![Girls in ICT Day 2025 (Vientiane) ](img/Tunie-1.jpg "Girls in ICT Day 2025 (Vientiane) ")
+
+![Girls in ICT Day 2025 (Vientiane) ](img/Tunie-2.jpg "Girls in ICT Day 2025 (Vientiane) ")
+
+![Girls in ICT Day 2025 (Vientiane) ](img/Amp-1.jpg "Girls in ICT Day 2025 (Vientiane) ")
+
+![Girls in ICT Day 2025 (Vientiane) ](img/Amp-2.jpg "Girls in ICT Day 2025 (Vientiane) ")
 
 ![Girls in ICT Day 2025 (Vientiane) ](img/Lunch.jpg "Girls in ICT Day 2025 (Vientiane) ")
