@@ -2,7 +2,7 @@
 ### “Girls in ICT for inclusive digital transformation”
 
 
-![Girls in ICT Day 2025 (Vientiane) ](img/Before-the-Match-small.png "Girls in ICT Day 2025 (Vientiane) ")
+[![Girls in ICT Day 2025 (Vientiane) ](img/Before-the-Match-small.png "Girls in ICT Day 2025 (Vientiane) ")](img/Before-the-Match.png)
 
 
 | From  |  To   |  Activities/Topics                                                                          |
@@ -15,7 +15,7 @@
 | 11:15 | 11:45 | **Girls in Wireless Networking** <br>--- *Mon & Mouk, MK's Angels*                          |
 | 11:45 | 12:00 | ***Lucky Draw*** & **Closing**                                                              |
 
-![Girls in ICT Day 2025 (Vientiane) ](img/After-the-Match-small.png "Girls in ICT Day 2025 (Vientiane) ")
+[![Girls in ICT Day 2025 (Vientiane) ](img/After-the-Match-small.png "Girls in ICT Day 2025 (Vientiane) ")](img/After-the-Match.png)
 
 ### Confirmed Speaker(s)
 + **Maykin Warasart**
