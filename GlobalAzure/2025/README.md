@@ -36,6 +36,8 @@
 
 ![Global Azure Vientiane 2025 by iNSTiLA](img/Tunie-0.jpg "Global Azure Vientiane 2025 by iNSTiLA")
 
+![Global Azure Vientiane 2025 by iNSTiLA](img/Amp-1.JPG "Global Azure Vientiane 2025 by iNSTiLA")
+
 ![Global Azure Vientiane 2025 by iNSTiLA](img/Tunie-1.jpg "Global Azure Vientiane 2025 by iNSTiLA")
 
 ![Global Azure Vientiane 2025 by iNSTiLA](img/Tunie-2.jpg "Global Azure Vientiane 2025 by iNSTiLA")
