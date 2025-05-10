@@ -34,3 +34,4 @@
 + **Phonesavanh NAMMAKONE**
 	+ Verisette Lao
 
+![Global Azure Vientiane 2025 by iNSTiLA](img/Tunie-0.jpg "Global Azure Vientiane 2025 by iNSTiLA")
