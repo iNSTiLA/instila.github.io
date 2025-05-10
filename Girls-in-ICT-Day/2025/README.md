@@ -53,7 +53,7 @@
 
 ![Girls in ICT Day 2025 (Vientiane) ](img/Mon-Mouk-1.JPG "Girls in ICT Day 2025 (Vientiane) ")
 
-![Girls in ICT Day 2025 (Vientiane) ](img/Mon-Mouk-2.JPG "Girls in ICT Day 2025 (Vientiane) ")
+![Girls in ICT Day 2025 (Vientiane) ](img/Mon-Mouk-2.jpg "Girls in ICT Day 2025 (Vientiane) ")
 
 ![Girls in ICT Day 2025 (Vientiane) ](img/Mon-Mouk-3.JPG "Girls in ICT Day 2025 (Vientiane) ")
 
