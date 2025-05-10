@@ -28,6 +28,7 @@
 	+ PhD candidate in Data Science and Artificial Intelligence, School of Engineering and Technology, Asian Institute of Technology (AIT)
 + **Maykin Warasart**
 	+ Microsoft MVP - Security
+	+ iNSTi.LA Founder
 + **Thongsavanh VILAYVONG**
 	+ Tier 2 Incident Response, Lao Telecom
 + **Phonesavanh NAMMAKONE**
