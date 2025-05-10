@@ -3,7 +3,10 @@
 + Date : ***(Fri)*** **May 9, 2025**
 + Time : **1:00** PM - **4:15** PM
 + Venue : **Lab de Lines - Coworking Space**
-+ Registration : ***[Here!](https://forms.gle/hfZxMgrcqca2Qvci8)***
+
+
+[![Global Azure Vientiane 2025 by iNSTiLA](img/After-the-Match.png "Global Azure Vientiane 2025 by iNSTiLA")](https://globalazure.net/events/402f91e1-c5aa-497a-83e5-7199106063d1)
++ CFS : ***[Sessionize](https://sessionize.com/global-azure-vientiane-2025/)***
 
 
 | From  |  To   |  Activities/Topics                                                       |
