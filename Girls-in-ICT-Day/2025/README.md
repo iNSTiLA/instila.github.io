@@ -41,13 +41,13 @@
 
 ![Girls in ICT Day 2025 (Vientiane) ](img/Tunie-1.jpg "Girls in ICT Day 2025 (Vientiane) ")
 
-![Girls in ICT Day 2025 (Vientiane) ](img/Tunie-1-5.jpg "Girls in ICT Day 2025 (Vientiane) ")
+![Girls in ICT Day 2025 (Vientiane) ](img/Tunie-1-5.JPG "Girls in ICT Day 2025 (Vientiane) ")
 
 ![Girls in ICT Day 2025 (Vientiane) ](img/Tunie-2.jpg "Girls in ICT Day 2025 (Vientiane) ")
 
 ![Girls in ICT Day 2025 (Vientiane) ](img/Amp-1.jpg "Girls in ICT Day 2025 (Vientiane) ")
 
-![Girls in ICT Day 2025 (Vientiane) ](img/Amp-1-5.jpg "Girls in ICT Day 2025 (Vientiane) ")
+![Girls in ICT Day 2025 (Vientiane) ](img/Amp-1-5.JPG "Girls in ICT Day 2025 (Vientiane) ")
 
 ![Girls in ICT Day 2025 (Vientiane) ](img/Amp-2.jpg "Girls in ICT Day 2025 (Vientiane) ")
 
