@@ -5,18 +5,17 @@
 ![Girls in ICT Day 2025 (Vientiane) ](img/Before-the-Match-small.png "Girls in ICT Day 2025 (Vientiane) ")
 
 
-| From  |  To   |  Activities/Topics                                                                                       |
-|:-----:|:-----:|:---------------------------------------------------------------------------------------------------------|
-| 09:00 | 09:15 | **Registration** & ***Lucky Draw***                                                                      |
-| 09:15 | 09:30 | **Opening** - ***"Digital Safety & DX require Girls in ICT"*** <br>--- *Maykin Warasart*                 |
-| 09:30 | 10:00 | **Switch! and Girls** <br>--- *Phonesavanh NAMMAKONE*                                                    |
-| 10:00 | 11:00 | **Women and Girls in AI** <br>--- *Asst.Prof.Wanchanok Sunthorn*                                         |
-| 11:00 | 11:15 | ***---Break---***                                                                                        |
-| 11:15 | 11:45 | **Girls in Wireless Networking** <br>--- *Mon & Mouk, MK's Angels*                                                   |
-| 11:45 | 12:00 | ***Lucky Draw*** & **Closing**                                                                           |
+| From  |  To   |  Activities/Topics                                                                          |
+|:-----:|:-----:|:--------------------------------------------------------------------------------------------|
+| 09:00 | 09:15 | **Registration** & ***Lucky Draw***                                                         |
+| 09:15 | 09:30 | **Opening** - ***"Digital Safety & DX require Girls in ICT"*** <br>--- *Maykin Warasart*    |
+| 09:30 | 10:00 | **Switch! and Girls** <br>--- *Phonesavanh NAMMAKONE*                                       |
+| 10:00 | 11:00 | **Women and Girls in AI** <br>--- *Asst.Prof.Wanchanok Sunthorn*                            |
+| 11:00 | 11:15 | ***---Break---***                                                                           |
+| 11:15 | 11:45 | **Girls in Wireless Networking** <br>--- *Mon & Mouk, MK's Angels*                          |
+| 11:45 | 12:00 | ***Lucky Draw*** & **Closing**                                                              |
 
 ![Girls in ICT Day 2025 (Vientiane) ](img/After-the-Match-small.png "Girls in ICT Day 2025 (Vientiane) ")
-
 
 ### Confirmed Speaker(s)
 + **Maykin Warasart**
@@ -37,3 +36,5 @@
 + [CompTIA Project+ Course](#)
 
 ![Call for Speakers](img/CFPv3.png "Call for Speakers")
+
+![Girls in ICT Day 2025 (Vientiane) ](img/Lunch.jpg "Girls in ICT Day 2025 (Vientiane) ")
