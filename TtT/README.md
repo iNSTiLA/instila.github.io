@@ -31,7 +31,6 @@
 
 + **Instructor**
 	+ ***Maykin Warasart***
-		+ Microsoft MVP (Most Valuable Professional) – Security
 		+ Approved Volunteer – Center for Cyber Safe and Education
 		+ CompTIA Certified Technical Trainer (CTT+) – Classroom Trainer
 		+ Microsoft Certified Trainer (MCT)
@@ -43,6 +42,7 @@
 		+ CAI – CertNexus Authorized Instructor
 		+ ETDA Digital Citizen (EDC) Trainer
 		+ Media Literacy Expert – Thai Media Fund
+		+ Former Microsoft Most Valuable Professional (MVP)
 + **Guest Instructor(s)**
 
 	![Boy](TAs/Boy_150.png "Boy @ SysAdmin Day 2023 - Live in Vientiane") ![Ham](TAs/Ham_150.png "Ham @ SysAdmin Day 2023 - Live in Vientiane") ![Sayphet](TAs/Sayphet_150.png "Sayphet @ SysAdmin Day 2024 - Live in4Vientiane") ![Pele](TAs/Pele_150.jpg "Pele @ LANOG 2.0")                                   |
