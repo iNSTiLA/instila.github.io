@@ -47,7 +47,7 @@
 
 	![Boy](TAs/Boy_150.png "Boy @ SysAdmin Day 2023 - Live in Vientiane") ![Ham](TAs/Ham_150.png "Ham @ SysAdmin Day 2023 - Live in Vientiane") ![Sayphet](TAs/Sayphet_150.png "Sayphet @ SysAdmin Day 2024 - Live in4Vientiane") ![Pele](TAs/Pele_150.jpg "Pele @ LANOG 2.0")                                   |
 
-	
+
 ### "There's no one right way to teach — everyone has their own style!"
 
 
